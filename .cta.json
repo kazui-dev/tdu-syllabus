@@ -1,0 +1,21 @@
+{
+  "projectName": "tdu-syllabus",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "pnpm",
+  "includeExamples": true,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {},
+  "git": true,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "solid",
+  "chosenAddOns": [
+    "biome",
+    "cloudflare",
+    "solid-ui",
+    "better-auth"
+  ]
+}
