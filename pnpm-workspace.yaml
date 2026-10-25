@@ -1,0 +1,10 @@
+packages:
+  - .
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+  - workerd
+overrides:
+  "miniflare>undici": "7.30.1"
+  "@better-auth/core": "1.6.33"
+  "tsx>esbuild": "0.28.2"
