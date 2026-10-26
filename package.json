@@ -23,7 +23,7 @@
     "@tanstack/solid-router-devtools": "latest",
     "@tanstack/solid-router-ssr-query": "latest",
     "@tanstack/solid-start": "latest",
-    "better-auth": "~1.6.33",
+    "better-auth": "~1.7.12",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "solid-js": "^1.9.17",
@@ -33,7 +33,7 @@
     "vite-tsconfig-paths": "^5.1.4"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.4.5",
+    "@biomejs/biome": "2.6.2",
     "@tanstack/devtools-vite": "latest",
     "typescript": "^5.9.3",
     "vite": "^8.3.5",
